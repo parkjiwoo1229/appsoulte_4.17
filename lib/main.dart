@@ -1,8 +1,8 @@
 
 import 'package:flutter/material.dart';
-import 'package:untitled4//screeens/First_screen.dart';
-import 'package:untitled4//screeens/Second_screen.dart';
-import 'package:untitled4//screeens/Third_screen.dart';
+import 'package:untitled4/screeens/First_screen.dart';
+import 'package:untitled4/screeens/Second_screen.dart';
+import 'package:untitled4/screeens/Third_screen.dart';
 
 void main() {
   runApp(const MyApp());
